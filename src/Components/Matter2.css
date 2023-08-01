@@ -1,0 +1,17 @@
+.head{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 2;
+    display: inline-flex;
+    flex-direction: column;
+    align-content: space-around;
+    padding-left: 100px;
+    padding-top: 95px;
+}
+.para{
+    font-size: 20;
+    color: black;
+    width:330px;
+    height:350px;
+    font-size: 30;
+}
